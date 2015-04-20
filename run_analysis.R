@@ -12,7 +12,6 @@ x_data <- rbind(x_train, x_test)
 y_data <- rbind(y_train, y_test)
 
 
-
 # 2- Extracts only the measurements on the mean and standard deviation for each measurement
 
 feat <- read.table("features.txt")
