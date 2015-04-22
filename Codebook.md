@@ -16,7 +16,7 @@
 - "x_data2" contains data from x_data but only those variables that refer to measurementes on the mean or std
 - "data" is one data set that results from binding "x_data2" and "y_data". It contains only variables that refer to measurementes on the mean or std and also includes the activity in each observation
 
-- "data_set" is the final data_set that
+- "data_set" is the final data set that
    * It contains only variables that refer to measurementes on the mean or std ("x_data2)
    * It also includes the activity in each observation ("y_data")
    * It also includes th subject involved in the experiment ("subject_data")
