@@ -17,9 +17,9 @@
 - "data" is one data set that results from binding "x_data2" and "y_data". It contains only variables that refer to measurementes on the mean or std and also includes the activity in each observation
 
 - "data_set" is the final data_set that
-1. It contains only variables that refer to measurementes on the mean or std ("x_data2)
-2. It also includes the activity in each observation ("y_data")
-3. It also includes th subject involved in the experiment ("subject_data")
+   * It contains only variables that refer to measurementes on the mean or std ("x_data2)
+   * It also includes the activity in each observation ("y_data")
+   * It also includes th subject involved in the experiment ("subject_data")
 
 - "averages" is a file that shows the average of measurements on the mean/stdv (data from "data_set") by each activity 
 and each subject.
